@@ -1,4 +1,3 @@
-# Welcome to the DataSploit Documentation!!!
 ## Overview
 
 * Performs automated OSINT on a domain / email / username / phone and find out relevant information from different sources. 
@@ -6,7 +5,8 @@
 * Correlates and collaborate the results, show them in a consolidated manner. 
 * Tries to find out credentials, api-keys, tokens, subdomains, domain history, legacy portals, etc. related to the target.
 * Available as single consolidating tool as well as standalone scripts. 
-* Available in both GUI and Console. 
+* Performs Active Scans on collected data. 
+* Generates HTML, JSON reports along with text files.  
 
 ## Why DataSploit???
 
@@ -22,7 +22,7 @@ Worried about setup? Well, there are two major requirements here:
 
 * Setting up the db, django, libraries, etc. We will soon have a script which will automate this for you, so can just go ahead and shoot the OSINT job. 
 * Feeding specific API keys for few specific sources. We are going to have a knowledge base where step by step instructions to generate these API keys will be documented. Sweet deal? 
-* [Click here to check step by step setup guide](http://datasploit.readthedocs.io/en/latest/setupGuide/)
+* [Click here to check step by step setup guide](/setupGuide/)
 
 ## Roadmap
 
